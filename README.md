@@ -2,4 +2,4 @@ Hugo Fernandes Da Silva
 Aldaas Baraa
 Nsémi Koubemba
 Christina Codjo
-orem VODOUNOU
+Orem Vodounou
