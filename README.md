@@ -1,5 +1,5 @@
 Hugo Fernandes Da Silva
-Aldaas Baraa
+Baraa Aldaas
 Nsémi Koubemba
 Christina Codjo
 Orem Vodounou
