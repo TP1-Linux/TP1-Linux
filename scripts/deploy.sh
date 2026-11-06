@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Arrêter le script si une commande échoue.
