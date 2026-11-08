@@ -1,0 +1,93 @@
+
+/* =========================
+   POMPOTECH - TEAM WEBSITE
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f4f6fc;
+    color: #20243a;
+    line-height: 1.7;
+    padding: 40px 7%;
+}
+
+/* Main title */
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    background: linear-gradient(135deg, #171b3d, #6548c8);
+    padding: 55px 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 10px 30px rgba(40, 35, 100, 0.15);
+}
+
+/* Subtitle */
+h1 + p {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #777b91;
+    margin-bottom: 45px;
+}
+
+/* Team members */
+h2 {
+    background: white;
+    color: #5542b5;
+    font-size: 1.35rem;
+    padding: 20px 25px 5px;
+    margin-top: 25px;
+    border-radius: 14px 14px 0 0;
+    border-top: 4px solid #7656d6;
+    box-shadow: 0 5px 20px rgba(30, 35, 70, 0.06);
+}
+
+/* Member information */
+h2 + p,
+h2 + p + p {
+    background: white;
+    padding: 8px 25px;
+    color: #62677d;
+    margin: 0;
+}
+
+/* GitHub links */
+h2 + p + p + a {
+    display: block;
+    background: white;
+    padding: 10px 25px 22px;
+    color: #6548c8;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 0 0 14px 14px;
+    box-shadow: 0 8px 20px rgba(30, 35, 70, 0.06);
+    transition: 0.3s ease;
+}
+
+h2 + p + p + a:hover {
+    color: #171b3d;
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    body {
+        padding: 20px 5%;
+    }
+
+    h1 {
+        font-size: 2rem;
+        padding: 35px 15px;
+    }
+
+    h2 {
+        font-size: 1.15rem;
+    }
+}
