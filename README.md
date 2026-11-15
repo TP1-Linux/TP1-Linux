@@ -1,5 +1,7 @@
 Hugo Fernandes Da Silva
-Aldaas Baraa
+Baraa Aldaas
 Nsémi Koubemba
+Ylann KOBEISSI
 Christina Codjo
 Orem Vodounou
+Mohamed Sid Atmane
